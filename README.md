@@ -5,7 +5,6 @@ Corgi Engine
 ============
 
 
-
 > :dog: An awesome cute little game engine :dog:
 
 <p align="center">
@@ -34,7 +33,7 @@ Corgi Engine
 </p>
 <br>
 
-[![](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][license]
+[![](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][LICENSE]
 
 
 ========
