@@ -1,4 +1,6 @@
 ------------
+
+[![Join the chat at https://gitter.im/Good-Dog/corgi](https://badges.gitter.im/Good-Dog/corgi.svg)](https://gitter.im/Good-Dog/corgi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > :construction: I'm starting development cycle. Please, don't fork or submit merge :construction:
 
 ------------
