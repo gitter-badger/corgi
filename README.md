@@ -1,5 +1,7 @@
-
+------------
 > :construction: I'm starting development cycle. Please, don't fork or submit merge :construction:
+
+------------
 
 Corgi Engine
 ============
@@ -8,7 +10,7 @@ Corgi Engine
 > :dog: An awesome cute little game engine :dog:
 
 <p align="center">
-  <img src=assets/README/gifs/corgi-gif8.gif />
+  <img src=assets/README/gifs/corgi-gif6.gif />
 </p>
 
 
@@ -37,69 +39,77 @@ Corgi Engine
 
 ========
 ## Overview
+<a name="overview"/>
 
 
 WIP
 
 ========
 ## Features
+<a name="features"/>
+
 
 
 WIP
 
 ============
 ## Installation
+<a name="installation"/>
+
 
 
 WIP
 
 =====
 ## Build
+<a name="build"/>
+
 
 
 WIP
 
 =======
 ## Support
+<a name="support"/>
 
 
 Please use the following support channels:
 
-* `GitHub issues <https://github.com/Good-Dog/corgi/issues>`_
-  for bug reports and feature requests.
-* `Our Gitter chat room <https://gitter.im/Good-Dog/corgi>`_
-  to ask questions, discuss features, and for general discussion.
+* To bug reports and feature requests, go to our [GitHub issues](https://github.com/Good-Dog/corgi/issues).
+* See [our Gitter chat room](https://gitter.im/Good-Dog/corgi) to ask questions, discuss features, and for general discussion.
 
 
 =======
 ## Authors
+<a name="authors"/>
 
 
-`Albert Almeida`_  (`@lordalbior`_) created the Corgi Engine and `these nice people`_
-have contributed.
+Albert Almeida(`@lordalbior`) created the Corgi Engine.
 
 
 ==========
 ## Contribute
+<a name="contribute"/>
 
 
-Please see `CONTRIBUTING <https://github.com/Good-Dog/corgi/blob/master/CONTRIBUTING.md>`_.
 
+Please see [CONTRIBUTING](https://github.com/Good-Dog/corgi/blob/master/CONTRIBUTING.md).
 
 ==========
 ## Changelog
+<a name="changelog"/>
 
 
-
-Please see `CHANGELOG <https://github.com/Good-Dog/corgi/blob/master/CHANGELOG.md>`_.
-
+Please see [CHANGELOG](https://github.com/Good-Dog/corgi/blob/master/CHANGELOG.md).
 
 =======
 ## License
+<a name="license"/>
 
 
-Please see `LICENSE <https://github.com/Good-Dog/corgi/blob/master/LICENSE>`_.
-To the dependencies licenses, see `OTHER_LICENSES <https://github.com/Good-Dog/corgi/blob/master/OTHER_LICENSES>`_.
+Please see [LICENSE](https://github.com/Good-Dog/corgi/blob/master/LICENSE).
+
+To the dependencies licenses, see [OTHER_LICENSES](https://github.com/Good-Dog/corgi/blob/master/OTHER_LICENSES).
 
 
 
