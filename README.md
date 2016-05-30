@@ -33,7 +33,6 @@ Corgi Engine
 </p>
 <br>
 
-[![](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][LICENSE]
 
 
 ========
